@@ -1,2 +1,3 @@
 this is my program
-this.self.ewhy.am.i.doingthi()
+this.self.ewhy.am.i.doingthi
+google is fun
